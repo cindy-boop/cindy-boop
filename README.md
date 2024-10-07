@@ -1,7 +1,3 @@
-Sure, here’s a personalized README template for you, Cindy! Since you left the company or project space open to my imagination, I’ll assume you’re a creative software developer or data scientist working on AI and innovative projects. Here’s how it could look:
-
----
-
 # Hi there 👋 I'm Cindy!
 
 Welcome to my GitHub! I'm passionate about building creative, high-impact solutions using **data science** and **AI**. I’m currently focused on leveraging cutting-edge **machine learning**, **AI ethics**, and **automation** to solve complex problems. When I’m not coding, I love diving into art and exploring new ways to combine creativity with technology.
